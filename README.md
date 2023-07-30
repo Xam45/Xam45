@@ -1,4 +1,4 @@
-<p aling="center"> <img src="https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/86173193901160515972084982170544104041290069541789401707310940591180625215489/" alt=""> </p>
+<p aling="center"> <img src="https://i.pinimg.com/564x/cc/a0/9d/cca09da3e626bbc04bf077f11ae30d7a.jpg" alt=""> </p>
 <h1 align="center">Hola, soy XamM</h1>
 <h3 align="center">Bienvenido a mi cuenta de GitHub. Soy un Estudiante de Sistemas y Desarrollador Web junior.  </h3>
 
