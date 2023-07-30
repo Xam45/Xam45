@@ -1,4 +1,4 @@
-<p aling="center"> <img src="https://i.pinimg.com/564x/cc/a0/9d/cca09da3e626bbc04bf077f11ae30d7a.jpg" alt=""> </p>
+<p align="center"> <img src="https://i.pinimg.com/564x/cc/a0/9d/cca09da3e626bbc04bf077f11ae30d7a.jpg" alt=""> </p>
 <h1 align="center">Hola, soy XamM</h1>
 <h3 align="center">Bienvenido a mi cuenta de GitHub. Soy un Estudiante de Sistemas y Desarrollador Web junior.  </h3>
 
