@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy XamM</h1>
 <h3 align="center">Bienvenido a mi cuenta de GitHub. Soy un Estudiante de Sistemas y Desarrollador Web junior.  </h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 <hr>
